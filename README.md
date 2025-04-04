@@ -14,6 +14,7 @@
     - **UC/**: Diagramas de casos de uso.
   - **functional/**: Requisitos funcionais.
   - **non_functional/**: Requisitos não funcionais.
+  - **domain/**: Requisitos de domínio (regras de negócio).
 
 ## Glossário
 
