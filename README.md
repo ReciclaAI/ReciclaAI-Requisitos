@@ -87,3 +87,27 @@ Embora a reciclagem seja um passo importante para reduzir o impacto ambiental, m
 - **API Gateway**: Componente de infraestrutura que gerencia as requisições entre o frontend e os microserviços do backend, garantindo que as solicitações sejam direcionadas ao serviço correto e otimizando a comunicação.
 
 - **Kubernetes**: Sistema de orquestração de contêineres utilizado para gerenciar e escalar os microserviços do backend, garantindo alta disponibilidade e resiliência do sistema.
+
+## Time de desenvolvimento
+
+### Product Owner
+#### - Pablo Deyvid de Paiva
+
+### Scrum Master
+#### - Gabriele Rêgo
+
+### Mobile Developer
+#### - Luis Eduardo (Tech lead)
+#### - Vinicius Melo
+
+### Frontend Developer
+#### - Tobias Santos (Tech lead)
+#### - André Medeiros
+
+### Backend Developer
+#### - Gabriele Duarte (Tech lead)
+#### - Pedro Medeiros
+
+### Embedded Developer
+#### - André Liberato (Tech lead)
+#### - Beatriz Camilo
