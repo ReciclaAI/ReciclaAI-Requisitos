@@ -1,4 +1,4 @@
-### Requisito Funcional 10: Feedback de Coleta  
+### Requisito Funcional 6: Feedback de Coleta  
 
 **1. Descrição do Caso de Uso**  
 **COMO** Usuário  

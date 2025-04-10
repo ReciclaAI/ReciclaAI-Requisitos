@@ -1,4 +1,4 @@
-### Requisito Funcional 3: Consultar Pontos de Coleta no Mapa  
+### Requisito Funcional 2: Consultar Pontos de Coleta no Mapa  
 
 **1. Descrição do Caso de Uso**  
 **COMO** Usuário  

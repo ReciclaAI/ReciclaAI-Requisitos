@@ -1,5 +1,5 @@
 
-### Requisito Funcional 7: Histórico de Coletas do Usuário  
+### Requisito Funcional 5: Histórico de Coletas do Usuário  
 
 **1. Descrição do Caso de Uso**  
 **COMO** Usuário  

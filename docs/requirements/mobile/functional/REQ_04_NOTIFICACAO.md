@@ -1,4 +1,4 @@
-### Requisito Funcional 5: Exibir Notificação de Coleta Realizada  
+### Requisito Funcional 4: Exibir Notificação de Coleta Realizada  
 
 **1. Descrição do Caso de Uso**  
 **COMO** Usuário  

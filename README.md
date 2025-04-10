@@ -6,6 +6,17 @@ A crescente preocupação com a sustentabilidade e o impacto ambiental tem levad
 
 Embora a reciclagem seja um passo importante para reduzir o impacto ambiental, muitas pessoas ainda não participam ativamente desse processo. Isso se deve, em parte, à falta de motivação, infraestrutura inadequada e desconhecimento sobre como e onde realizar o descarte adequado de resíduos recicláveis. O principal problema a ser resolvido é a criação de um sistema acessível e eficiente que possibilite aos usuários coletar, transportar e descartar corretamente os resíduos recicláveis, com o devido reconhecimento por suas ações sustentáveis.
 
+### Plataformas
+- Aplicativo Móvel: Voltado para os usuários finais que poderão cadastrar a coleta de lixo e acompanhar o rendimento de pontos.
+
+### Plataforma Web
+
+- Voltada para o administrador da plataforma. O objetivo é permitir o registro das principais entidades do sistema.
+
+### Sistema embarcado nas lixeiras
+
+- Voltado para o gerenciamento e acompanhamento das lixeiras registradas na plataforma.
+
 ## Estrutura de Pastas
 
 - **docs/requirements**: Documentação do projeto.

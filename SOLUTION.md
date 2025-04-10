@@ -106,3 +106,21 @@ O sistema será estruturado de forma a garantir alta disponibilidade, escalabili
 ---
 
 Este sistema integra tecnologias modernas para garantir que a coleta de resíduos seja realizada de forma eficiente, interativa e sustentável. Com o uso de IoT no ponto de coleta, microserviços para o backend, Flutter para o app móvel e uma interface amigável no frontend, o sistema oferece uma experiência completa tanto para os usuários quanto para os administradores.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
