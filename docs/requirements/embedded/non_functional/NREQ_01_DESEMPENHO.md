@@ -1,18 +1,18 @@
 ## 1. Identificação  
 **Código:** RNF01  
-**Nome:** Desempenho na Validação de Coleta  
+**Nome:** Desempenho e Tempo de Resposta do Sistema Embarcado
 
 ## 2. Descrição  
-O sistema deve validar a coleta de resíduos em até **5 segundos** após o usuário realizar o processo de descarte no ponto de coleta, garantindo a rapidez e eficiência do processo.  
+O sistema embarcado deve garantir que todas as operações, como a validação de coletas e a exibição do QR code, sejam realizadas rapidamente, sem impactar a experiência do usuário.
 
 ## 3. Justificativa  
-Esse requisito visa assegurar que os usuários tenham uma experiência ágil ao validar suas coletas e não enfrentem atrasos no processo de recompensa, mantendo o engajamento no aplicativo.  
+Este requisito visa assegurar que o sistema embarcado funcione de maneira eficiente e sem atrasos, garantindo a fluidez no processo de coleta e validação, o que contribui para a satisfação do usuário.
 
 ## 4. Critérios de Aceitação  
-- **CA01**: O tempo entre o descarte do usuário e a validação do sistema deve ser inferior a 5 segundos.  
-- **CA02**: Caso o tempo de validação ultrapasse 5 segundos, o sistema deve registrar o erro e tentar a validação novamente.  
-- **CA03**: A validação deve ser realizada sem erros em 99% dos casos.
+- **CA01**: O tempo de resposta para a validação de uma coleta e o cálculo da pontuação não deve exceder **2 segundos**.  
+- **CA02**: O tempo de resposta para exibição de QR code não deve exceder **1 segundo** após a detecção da presença de lixo no ponto de coleta.  
+- **CA03**: O sistema deve ser capaz de detectar a presença de lixo e validar o QR code com uma taxa de sucesso de **99%**.
 
 ## 5. Observações Técnicas  
-- O sistema deve ser otimizado para garantir o processamento rápido de dados, utilizando tecnologias de mensageria e verificação em tempo real.  
-- A arquitetura do ponto de coleta deve garantir que o sistema embarcado consiga se comunicar com o servidor do aplicativo sem latência significativa.
+- O sistema embarcado deve ser otimizado para minimizar o uso de recursos de hardware e maximizar a velocidade de resposta.
+- O sistema deve ser capaz de operar em tempo real, utilizando algoritmos eficientes e baixa latência.
