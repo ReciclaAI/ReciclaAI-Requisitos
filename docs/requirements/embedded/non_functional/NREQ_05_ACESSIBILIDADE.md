@@ -9,7 +9,7 @@ O aplicativo deve ser compatível com tecnologias assistivas, como leitores de t
 Esse requisito visa tornar o sistema acessível a uma maior parcela da população, atendendo às diretrizes de acessibilidade e garantindo que qualquer usuário, independentemente de sua condição, possa participar da coleta e reciclagem de resíduos.  
 
 ## 4. Critérios de Aceitação  
-- **CA01**: O aplicativo deve ser totalmente funcional com leitores de tela em sistemas operacionais móveis.  
+- **CA01**: O sistema embarcado deve ser totalmente funcional com leitores de tela.
 - **CA02**: O aplicativo deve ter suporte completo a comandos de voz para todas as ações críticas, como registrar coletas e consultar pontos de coleta.  
 
 ## 5. Observações Técnicas  

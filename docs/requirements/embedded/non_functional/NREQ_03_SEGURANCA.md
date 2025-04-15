@@ -10,7 +10,7 @@ Esse requisito visa proteger a privacidade dos usuários e garantir que informa�
 
 ## 4. Critérios de Aceitação  
 - **CA01**: Todos os dados pessoais devem ser criptografados utilizando AES-256 em repouso.  
-- **CA02**: A comunicação entre o aplicativo e o servidor deve ser realizada via protocolo HTTPS com criptografia TLS.  
+- **CA02**: A comunicação entre o sistema embarcado e o servidor deve ser realizada via protocolo MQTTS com criptografia TLS.  
 - **CA03**: O sistema deve realizar auditorias regulares de segurança para verificar possíveis vulnerabilidades.
 
 ## 5. Observações Técnicas  
