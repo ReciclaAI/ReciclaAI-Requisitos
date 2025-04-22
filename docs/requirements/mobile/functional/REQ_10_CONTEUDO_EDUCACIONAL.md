@@ -1,4 +1,4 @@
-### Requisito Funcional 09: Conteúdo Educativo
+### Requisito Funcional 10: Conteúdo Educativo
 
 **1. Descrição do Caso de Uso**  
 **COMO** Usuário  
