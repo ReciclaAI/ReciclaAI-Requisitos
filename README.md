@@ -2,6 +2,7 @@
 
 A crescente preocupação com a sustentabilidade e o impacto ambiental tem levado cada vez mais pessoas a adotar práticas de reciclagem e descarte consciente de resíduos. No entanto, muitas vezes a falta de incentivo e o acesso limitado a pontos de coleta dificultam o engajamento das pessoas nesse processo. Com isso, surge a necessidade de um sistema inovador que estimule a participação dos cidadãos na reciclagem de resíduos. O aplicativo proposto visa conectar usuários com pontos de coleta, permitindo que cada coleta seja verificada e recompensada, incentivando a adoção de hábitos mais sustentáveis.
 
+
 ## Problema
 
 Embora a reciclagem seja um passo importante para reduzir o impacto ambiental, muitas pessoas ainda não participam ativamente desse processo. Isso se deve, em parte, à falta de motivação, infraestrutura inadequada e desconhecimento sobre como e onde realizar o descarte adequado de resíduos recicláveis. O principal problema a ser resolvido é a criação de um sistema acessível e eficiente que possibilite aos usuários coletar, transportar e descartar corretamente os resíduos recicláveis, com o devido reconhecimento por suas ações sustentáveis.
