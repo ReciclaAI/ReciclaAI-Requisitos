@@ -1,3 +1,6 @@
+## Retrospectiva
+[Slide retro sprint 1](https://www.canva.com/design/DAGmVATMIe8/S2HEkZX9kAaQ7zaMSdwudw/edit?utm_content=DAGmVATMIe8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Time de desenvolvimento
 
 ### Product Owner
