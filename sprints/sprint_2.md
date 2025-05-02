@@ -16,7 +16,7 @@
 
 ### Backend Developer
 #### - Pablo Deyvid de Paiva (Tech lead)
-#### - 
+#### - André Liberato
 
 ### Embedded Developer
 #### - 
