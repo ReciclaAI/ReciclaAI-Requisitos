@@ -11,8 +11,8 @@
 #### - 
 
 ### Frontend Developer
-#### - 
-#### - 
+#### - Vinicius Melo
+#### - Beatriz Camilo
 
 ### Backend Developer
 #### - Pablo Deyvid de Paiva (Tech lead)
