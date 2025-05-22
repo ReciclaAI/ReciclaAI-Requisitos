@@ -7,3 +7,7 @@
 
 ## Diagrama Gannt
 [Acesse o diagrama](https://docs.google.com/spreadsheets/d/1IgPyB26LUgggp_NmkGEwnZel6qoT5GFy4rk4eyocNJc/edit?usp=sharing)
+
+## Pontos de Função
+[Acesse a planilha](https://docs.google.com/spreadsheets/d/1IgPyB26LUgggp_NmkGEwnZel6qoT5GFy4rk4eyocNJc/edit?usp=sharing)
+[Acesse o documento](https://docs.google.com/document/d/1lZT-StB_Maa0BIHqI85sfesNkkPjIYrXZbAjb0uI_Vg/edit?usp=sharing)
