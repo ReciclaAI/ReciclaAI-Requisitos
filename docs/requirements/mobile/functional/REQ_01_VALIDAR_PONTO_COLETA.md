@@ -29,3 +29,6 @@
 **6. Regras de Negócio**  
 - **RN01** - O QR code deve ser válido e exclusivo para cada ponto de coleta.  
 - **RN02** - O sistema deve garantir que o ponto de coleta e a coleta realizada sejam corretamente associados ao usuário.
+
+
+[Fluxograma](https://drive.google.com/file/d/1xCEFz9yeaIRs2zseGTO7rb6nPvv_YPO6/view?usp=sharing)
