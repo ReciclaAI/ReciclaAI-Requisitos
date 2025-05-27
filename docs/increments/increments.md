@@ -6,7 +6,7 @@
 
 ## Incremento 6 - Diagrama de Gantt (Tempo)
 
-- [Acesse o documento](https://docs.google.com/document/d/1rNT5K_38XIw-QUgqexX8de-b-rUKSIZAuzMM1mRAdBk/edit?usp=sharing)
+[Acesse o documento](https://docs.google.com/document/d/1rNT5K_38XIw-QUgqexX8de-b-rUKSIZAuzMM1mRAdBk/edit?usp=sharing)
 
 ## Incremento 7 - Custos
 
