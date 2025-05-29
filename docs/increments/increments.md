@@ -1,4 +1,4 @@
-# Incrementos - Atividades - ReciclAi
+# Incrementos - Atividades - ReciclaAi
 
 ## Incremento 4 - Ponto de Função
 
