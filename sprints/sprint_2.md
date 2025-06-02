@@ -1,5 +1,7 @@
 ## Time de desenvolvimento
 
+(Apresentação Retrospectiva)[https://www.canva.com/design/DAGpPFN4oCg/ljK3HDnqOZaQafzKP4A9lA/edit?utm_content=DAGpPFN4oCg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+
 ### Product Owner
 #### - Gabi Duarte
 
