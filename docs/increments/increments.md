@@ -14,4 +14,4 @@
 
 ## Incremento 8 - Risco
 
-[Acesse o documento](https://docs.google.com/document/d/1r85XDtLb-0LBxaSA6ZTqkYPZB7GKy7WIaiy9aPYHrGc/edit?usp=sharing)
+[Acesse o documento](https://docs.google.com/document/d/1l_U7hy5lN0gPm1ImW1fqESwK4YNeZcqItKGcDAA9rJI/edit?usp=sharing)
