@@ -1,14 +1,14 @@
 ## Time de desenvolvimento
 
 ### Product Owner
-#### - Luis
+#### - Luis Eduardo
 
 ### Scrum Master
-#### - Beatriz
+#### - Beatriz Camilo
 
 ### Mobile Developer
-#### - André 
-#### - tobias
+#### - André Fernandes
+#### - Tobias Santos
 
 ### Frontend Developer
 #### - André Liberato
@@ -19,5 +19,5 @@
 #### - Gabriele Rêgo
 
 ### Embedded Developer
-#### - Pablo
+#### - Pablo Paiva
 #### - Gabrielle Duarte
